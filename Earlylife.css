@@ -1,0 +1,9 @@
+*{
+    background: linear-gradient(to right,blue,green);
+}
+h1{
+    text-align: center;
+}
+img{
+    padding-left: 400px;
+}

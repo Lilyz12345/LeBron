@@ -1,0 +1,12 @@
+*{
+    background: linear-gradient(to left,pink,purple);
+}
+.one{
+    text-align: center;
+}
+.two,.six,.seven{
+    text-align: center;
+}
+.three,.four,.five{
+    padding-left: 400px;
+}

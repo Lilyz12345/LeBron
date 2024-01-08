@@ -1,0 +1,9 @@
+.honors{
+    padding-left: 400px;
+}
+.NBA,.awards{
+    text-align: center;
+}
+*{
+    background: linear-gradient(to left,blue,orange,yellow);
+}
